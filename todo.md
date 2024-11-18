@@ -1,0 +1,2 @@
+- Give git tutorial
+- Research meeting
