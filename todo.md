@@ -1,4 +1,4 @@
 - Give git tutorial
 - Research meeting
 - Go home
-- Make dinner
+- Go to the pub
